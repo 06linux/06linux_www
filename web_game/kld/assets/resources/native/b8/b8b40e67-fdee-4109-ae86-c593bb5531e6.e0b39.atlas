@@ -1,0 +1,69 @@
+
+long28.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang
+  rotate: true
+  xy: 2, 143
+  size: 268, 418
+  orig: 268, 450
+  offset: 0, 20
+  index: -1
+guang
+  rotate: true
+  xy: 899, 300
+  size: 111, 91
+  orig: 121, 102
+  offset: 4, 8
+  index: -1
+guang1
+  rotate: false
+  xy: 422, 218
+  size: 475, 193
+  orig: 475, 193
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 422, 30
+  size: 469, 186
+  orig: 469, 186
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 893, 16
+  size: 63, 181
+  orig: 63, 181
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 899, 199
+  size: 99, 79
+  orig: 101, 81
+  offset: 1, 1
+  index: -1
+tui
+  rotate: false
+  xy: 958, 2
+  size: 49, 118
+  orig: 49, 118
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: true
+  xy: 958, 122
+  size: 75, 50
+  orig: 80, 57
+  offset: 4, 1
+  index: -1
+yinying
+  rotate: false
+  xy: 2, 94
+  size: 111, 47
+  orig: 117, 53
+  offset: 3, 3
+  index: -1

@@ -1,0 +1,48 @@
+
+long10.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 2, 11
+  size: 269, 113
+  orig: 269, 145
+  offset: 0, 32
+  index: -1
+shou
+  rotate: true
+  xy: 273, 2
+  size: 32, 46
+  orig: 36, 46
+  offset: 2, 0
+  index: -1
+tou
+  rotate: false
+  xy: 390, 69
+  size: 60, 55
+  orig: 62, 58
+  offset: 1, 2
+  index: -1
+tui
+  rotate: false
+  xy: 273, 36
+  size: 66, 88
+  orig: 66, 88
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: true
+  xy: 321, 4
+  size: 30, 15
+  orig: 32, 18
+  offset: 1, 2
+  index: -1
+yinying
+  rotate: true
+  xy: 341, 13
+  size: 111, 47
+  orig: 117, 53
+  offset: 3, 3
+  index: -1

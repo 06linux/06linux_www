@@ -1,0 +1,125 @@
+
+long19.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+156_wb_xuliedian_00002_000
+  rotate: false
+  xy: 423, 85
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+156_wb_xuliedian_00002_001
+  rotate: false
+  xy: 423, 19
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+156_wb_xuliedian_00002_002
+  rotate: false
+  xy: 431, 190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+156_wb_xuliedian_00002_003
+  rotate: false
+  xy: 489, 124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+237_T_FX_Light_040
+  rotate: false
+  xy: 497, 190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+chibang
+  rotate: false
+  xy: 2, 38
+  size: 154, 104
+  orig: 154, 104
+  offset: 0, 0
+  index: -1
+glow_ball1_grey_mip_0
+  rotate: false
+  xy: 54, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+qiantui
+  rotate: false
+  xy: 489, 63
+  size: 47, 59
+  orig: 49, 61
+  offset: 1, 1
+  index: -1
+qiantui1
+  rotate: true
+  xy: 276, 42
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 144
+  size: 366, 110
+  orig: 366, 112
+  offset: 0, 0
+  index: -1
+shentiguang
+  rotate: true
+  xy: 158, 4
+  size: 138, 116
+  orig: 138, 116
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 370, 151
+  size: 103, 59
+  orig: 105, 61
+  offset: 1, 1
+  index: -1
+tui1
+  rotate: true
+  xy: 2, 4
+  size: 32, 50
+  orig: 34, 52
+  offset: 1, 1
+  index: -1
+tui2
+  rotate: true
+  xy: 276, 2
+  size: 38, 39
+  orig: 41, 41
+  offset: 2, 1
+  index: -1
+tui3
+  rotate: false
+  xy: 489, 7
+  size: 41, 54
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: true
+  xy: 532, 20
+  size: 41, 40
+  orig: 43, 42
+  offset: 1, 1
+  index: -1
+yinying
+  rotate: true
+  xy: 374, 38
+  size: 111, 47
+  orig: 117, 53
+  offset: 3, 3
+  index: -1

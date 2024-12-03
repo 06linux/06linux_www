@@ -1,0 +1,55 @@
+
+long7.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang
+  rotate: false
+  xy: 299, 94
+  size: 132, 84
+  orig: 134, 85
+  offset: 2, 1
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 37
+  size: 295, 141
+  orig: 386, 264
+  offset: 58, 92
+  index: -1
+shou
+  rotate: true
+  xy: 299, 2
+  size: 41, 46
+  orig: 41, 48
+  offset: 0, 1
+  index: -1
+tou
+  rotate: true
+  xy: 412, 10
+  size: 60, 72
+  orig: 62, 74
+  offset: 1, 1
+  index: -1
+tui
+  rotate: false
+  xy: 433, 72
+  size: 56, 106
+  orig: 58, 107
+  offset: 1, 1
+  index: -1
+xiaba
+  rotate: false
+  xy: 347, 15
+  size: 39, 28
+  orig: 46, 32
+  offset: 2, 2
+  index: -1
+yinying
+  rotate: false
+  xy: 299, 45
+  size: 111, 47
+  orig: 117, 53
+  offset: 3, 3
+  index: -1

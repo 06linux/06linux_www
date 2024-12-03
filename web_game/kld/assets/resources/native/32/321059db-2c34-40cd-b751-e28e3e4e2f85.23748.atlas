@@ -1,0 +1,76 @@
+
+long26.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+237_T_FX_Light_040
+  rotate: false
+  xy: 462, 91
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: false
+  xy: 361, 78
+  size: 99, 176
+  orig: 109, 177
+  offset: 0, 1
+  index: -1
+bozihou
+  rotate: true
+  xy: 361, 8
+  size: 68, 138
+  orig: 68, 138
+  offset: 0, 0
+  index: -1
+qiantui
+  rotate: false
+  xy: 462, 157
+  size: 63, 97
+  orig: 63, 99
+  offset: 0, 2
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 61
+  size: 357, 193
+  orig: 370, 238
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 209, 18
+  size: 81, 41
+  orig: 83, 44
+  offset: 1, 2
+  index: -1
+tui1
+  rotate: true
+  xy: 2, 2
+  size: 57, 92
+  orig: 57, 92
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 209, 2
+  size: 30, 14
+  orig: 32, 16
+  offset: 1, 1
+  index: -1
+xiaba
+  rotate: false
+  xy: 292, 36
+  size: 59, 23
+  orig: 61, 25
+  offset: 1, 1
+  index: -1
+yinying
+  rotate: false
+  xy: 96, 12
+  size: 111, 47
+  orig: 117, 53
+  offset: 3, 3
+  index: -1

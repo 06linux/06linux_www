@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default","npcFish","playerLong"],collisionMatrix:[[true,false],[false,true,true],[false,true,true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/YinSi.fire",orientation:"portrait",jsList:[],bundleVers:{internal:"620a7",resources:"408f7",main:"445ed"}};

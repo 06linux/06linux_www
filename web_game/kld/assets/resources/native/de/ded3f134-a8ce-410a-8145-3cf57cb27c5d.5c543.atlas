@@ -1,0 +1,55 @@
+
+long30.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang
+  rotate: false
+  xy: 2, 137
+  size: 315, 356
+  orig: 315, 356
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 468, 133
+  orig: 468, 133
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 319, 384
+  size: 109, 124
+  orig: 109, 124
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 319, 161
+  size: 147, 76
+  orig: 149, 77
+  offset: 1, 0
+  index: -1
+tui
+  rotate: false
+  xy: 319, 239
+  size: 82, 143
+  orig: 82, 143
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: false
+  xy: 403, 332
+  size: 76, 48
+  orig: 78, 52
+  offset: 1, 1
+  index: -1
+yinying
+  rotate: true
+  xy: 445, 382
+  size: 111, 47
+  orig: 117, 53
+  offset: 3, 3
+  index: -1

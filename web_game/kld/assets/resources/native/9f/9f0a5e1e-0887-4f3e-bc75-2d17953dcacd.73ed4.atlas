@@ -1,0 +1,69 @@
+
+long25.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+237_T_FX_Light_040
+  rotate: false
+  xy: 415, 229
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+chibang
+  rotate: true
+  xy: 2, 2
+  size: 133, 221
+  orig: 133, 221
+  offset: 0, 0
+  index: -1
+chibang1
+  rotate: true
+  xy: 225, 2
+  size: 133, 221
+  orig: 133, 221
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 137
+  size: 382, 91
+  orig: 415, 176
+  offset: 0, 85
+  index: -1
+shou
+  rotate: true
+  xy: 57, 256
+  size: 37, 58
+  orig: 37, 58
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 331, 230
+  size: 82, 63
+  orig: 82, 63
+  offset: 0, 0
+  index: -1
+tui
+  rotate: true
+  xy: 230, 233
+  size: 60, 99
+  orig: 60, 99
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: false
+  xy: 2, 269
+  size: 53, 24
+  orig: 53, 24
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 117, 246
+  size: 111, 47
+  orig: 115, 51
+  offset: 2, 2
+  index: -1

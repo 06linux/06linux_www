@@ -1,0 +1,90 @@
+
+long18.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+237_T_FX_Light_040
+  rotate: false
+  xy: 873, 5
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+chibang
+  rotate: false
+  xy: 370, 14
+  size: 154, 104
+  orig: 154, 104
+  offset: 0, 0
+  index: -1
+qiantui
+  rotate: true
+  xy: 768, 10
+  size: 47, 59
+  orig: 49, 61
+  offset: 1, 1
+  index: -1
+qiantui1
+  rotate: false
+  xy: 666, 22
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 8
+  size: 366, 110
+  orig: 366, 112
+  offset: 0, 0
+  index: -1
+shentiguang
+  rotate: false
+  xy: 526, 2
+  size: 138, 116
+  orig: 138, 116
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 768, 59
+  size: 103, 59
+  orig: 105, 61
+  offset: 1, 1
+  index: -1
+tui1
+  rotate: false
+  xy: 986, 68
+  size: 32, 50
+  orig: 34, 52
+  offset: 1, 1
+  index: -1
+tui2
+  rotate: false
+  xy: 982, 27
+  size: 38, 39
+  orig: 41, 41
+  offset: 2, 1
+  index: -1
+tui3
+  rotate: false
+  xy: 829, 3
+  size: 41, 54
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: false
+  xy: 939, 29
+  size: 41, 40
+  orig: 43, 42
+  offset: 1, 1
+  index: -1
+yinying
+  rotate: false
+  xy: 873, 71
+  size: 111, 47
+  orig: 117, 53
+  offset: 3, 3
+  index: -1

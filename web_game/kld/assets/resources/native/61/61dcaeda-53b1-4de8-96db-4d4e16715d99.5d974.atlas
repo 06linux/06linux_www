@@ -1,0 +1,48 @@
+
+long12.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 2, 59
+  size: 270, 66
+  orig: 270, 90
+  offset: 0, 24
+  index: -1
+shou
+  rotate: false
+  xy: 115, 2
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 274, 25
+  size: 100, 80
+  orig: 102, 82
+  offset: 1, 1
+  index: -1
+tui
+  rotate: false
+  xy: 356, 37
+  size: 66, 88
+  orig: 70, 88
+  offset: 2, 0
+  index: -1
+xiaba
+  rotate: true
+  xy: 168, 23
+  size: 34, 13
+  orig: 36, 15
+  offset: 1, 1
+  index: -1
+yinying
+  rotate: false
+  xy: 2, 10
+  size: 111, 47
+  orig: 117, 53
+  offset: 3, 3
+  index: -1

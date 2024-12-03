@@ -1,0 +1,181 @@
+
+long6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yinying
+  rotate: false
+  xy: 2, 931
+  size: 119, 57
+  orig: 138, 61
+  offset: 10, 2
+  index: -1
+待机/80000
+  rotate: false
+  xy: 2, 321
+  size: 277, 136
+  orig: 380, 285
+  offset: 51, 50
+  index: -1
+待机/80001
+  rotate: false
+  xy: 2, 731
+  size: 280, 133
+  orig: 380, 285
+  offset: 48, 51
+  index: -1
+待机/80002
+  rotate: false
+  xy: 284, 723
+  size: 281, 133
+  orig: 380, 285
+  offset: 45, 51
+  index: -1
+待机/80003
+  rotate: false
+  xy: 567, 721
+  size: 283, 133
+  orig: 380, 285
+  offset: 42, 51
+  index: -1
+待机/80004
+  rotate: false
+  xy: 559, 586
+  size: 282, 133
+  orig: 380, 285
+  offset: 44, 51
+  index: -1
+待机/80005
+  rotate: false
+  xy: 2, 596
+  size: 280, 133
+  orig: 380, 285
+  offset: 48, 51
+  index: -1
+待机/80006
+  rotate: false
+  xy: 2, 459
+  size: 277, 135
+  orig: 380, 285
+  offset: 51, 50
+  index: -1
+攻击/80000
+  rotate: false
+  xy: 281, 311
+  size: 278, 136
+  orig: 380, 285
+  offset: 50, 50
+  index: -1
+攻击/80001
+  rotate: false
+  xy: 415, 858
+  size: 289, 130
+  orig: 380, 285
+  offset: 54, 51
+  index: -1
+攻击/80002
+  rotate: false
+  xy: 123, 866
+  size: 290, 122
+  orig: 380, 285
+  offset: 66, 55
+  index: -1
+攻击/80003
+  rotate: false
+  xy: 706, 856
+  size: 287, 132
+  orig: 380, 285
+  offset: 83, 51
+  index: -1
+攻击/80004
+  rotate: false
+  xy: 284, 587
+  size: 273, 134
+  orig: 380, 285
+  offset: 93, 51
+  index: -1
+攻击/80005
+  rotate: false
+  xy: 281, 450
+  size: 264, 135
+  orig: 380, 285
+  offset: 94, 51
+  index: -1
+攻击/80006
+  rotate: false
+  xy: 547, 449
+  size: 265, 135
+  orig: 380, 285
+  offset: 85, 51
+  index: -1
+攻击/80007
+  rotate: false
+  xy: 561, 311
+  size: 278, 136
+  orig: 380, 285
+  offset: 50, 50
+  index: -1
+跑/80000
+  rotate: false
+  xy: 259, 2
+  size: 257, 156
+  orig: 380, 285
+  offset: 57, 54
+  index: -1
+跑/80001
+  rotate: true
+  xy: 843, 360
+  size: 247, 164
+  orig: 380, 285
+  offset: 66, 56
+  index: -1
+跑/80002
+  rotate: true
+  xy: 841, 108
+  size: 250, 150
+  orig: 380, 285
+  offset: 62, 76
+  index: -1
+跑/80003
+  rotate: false
+  xy: 2, 6
+  size: 255, 153
+  orig: 380, 285
+  offset: 54, 68
+  index: -1
+跑/80004
+  rotate: false
+  xy: 256, 161
+  size: 252, 148
+  orig: 380, 285
+  offset: 56, 67
+  index: -1
+跑/80005
+  rotate: true
+  xy: 852, 609
+  size: 245, 135
+  orig: 380, 285
+  offset: 64, 86
+  index: -1
+跑/80006
+  rotate: false
+  xy: 2, 180
+  size: 252, 139
+  orig: 380, 285
+  offset: 59, 88
+  index: -1
+跑/80007
+  rotate: false
+  xy: 510, 160
+  size: 261, 149
+  orig: 380, 285
+  offset: 52, 71
+  index: -1
+跑/80008
+  rotate: false
+  xy: 518, 2
+  size: 260, 156
+  orig: 380, 285
+  offset: 54, 54
+  index: -1
